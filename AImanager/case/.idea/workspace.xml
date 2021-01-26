@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f27a2a2-4a26-4fbf-8a62-a5554e7ac616" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/case$aa.coverage" NAME="aa Coverage Results" MODIFIED="1566456507921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$Unittests_for___TestserverInitiate.coverage" NAME="Unittests for 客需服务完成率-列表.TestserverInitiate Coverage Results" MODIFIED="1564389891793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$Unittests_for__TestserverInitiate.coverage" NAME="Unittests for 客需使用时段分布.TestserverInitiate Coverage Results" MODIFIED="1566456548761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$lainxi.coverage" NAME="lainxi Coverage Results" MODIFIED="1559808428140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for___TestserverInitiate_test_server.coverage" NAME="Unittests for 客需服务时长-按楼层.TestserverInitiate.test_server Coverage Results" MODIFIED="1560158137148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for_lainxi_TestserverInitiate_test_server.coverage" NAME="Unittests for lainxi.TestserverInitiate.test_server Coverage Results" MODIFIED="1560158089214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$openpyxlexcel.coverage" NAME="使用openpyxl计算excel表中识别的字错误率 Coverage Results" MODIFIED="1563764226275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for__TestusageData.coverage" NAME="Unittests for 整体使用数据.TestusageData Coverage Results" MODIFIED="1559187658814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$excelprocess.coverage" NAME="excelprocess Coverage Results" MODIFIED="1562676042785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$tryreport.coverage" NAME="tryreport Coverage Results" MODIFIED="1565257258612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_in_lainxi_py.coverage" NAME="Unittests in lainxi.py Coverage Results" MODIFIED="1560156950438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for__TestserverInitiate.coverage" NAME="Unittests for 客需使用时段分布.TestserverInitiate Coverage Results" MODIFIED="1560161709962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$.coverage" NAME="服务时长 Coverage Results" MODIFIED="1559637461803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$Unittests_for__TestserverInitiate_test_server.coverage" NAME="Unittests for 获取客需服务分布自动化.TestserverInitiate.test_server Coverage Results" MODIFIED="1564391476821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for_lainxi_TestserverInitiate.coverage" NAME="Unittests for lainxi.TestserverInitiate Coverage Results" MODIFIED="1560158000582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$exceljson.coverage" NAME="解析excel表中json中某个字段值 Coverage Results" MODIFIED="1564991808586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$Unittests_in__py.coverage" NAME="Unittests in 日耗品统计.py Coverage Results" MODIFIED="1565256411427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for__TestusageData_test_usageData.coverage" NAME="Unittests for 整体使用数据.TestusageData.test_usageData Coverage Results" MODIFIED="1559296411729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$hh.coverage" NAME="hh Coverage Results" MODIFIED="1566456530995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_in__py.coverage" NAME="Unittests in 客需使用时段分布.py Coverage Results" MODIFIED="1560161713993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for___TestserverInitiate.coverage" NAME="Unittests for 客需服务完成率-列表.TestserverInitiate Coverage Results" MODIFIED="1560156026039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$.coverage" NAME="编辑距离 Coverage Results" MODIFIED="1562727995017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$openpyxl.coverage" NAME="测试openpyxl Coverage Results" MODIFIED="1562742448731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_in___py.coverage" NAME="Unittests in 客需服务完成率-列表.py Coverage Results" MODIFIED="1560405317536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$report.coverage" NAME="report Coverage Results" MODIFIED="1566456511809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$Unittests_for__TestserverInitiate_test_server.coverage" NAME="Unittests for 技能使用偏好接口.TestserverInitiate.test_server Coverage Results" MODIFIED="1559731792528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_4_0$report.coverage" NAME="report Coverage Results" MODIFIED="1560491470556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case$Unittests_for___TestserverInitiate_test_server.coverage" NAME="Unittests for 客需服务时长-按楼层.TestserverInitiate.test_server Coverage Results" MODIFIED="1564390172092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stringio</find>
+      <find>ivan2</find>
+      <find>192.168.13.235</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>10.204.4.7</replace>
+    </replaceStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1XI9H3FdocxrGogb44BlsAek87R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/base/TestCase/服务和流程报告.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in 服务和流程报告.py">
+    <configuration name="服务监控页面报告" type="PythonConfigurationType" factoryName="Python">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\location\python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/服务监控报告.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="服务流程页面报告" type="PythonConfigurationType" factoryName="Python">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\location\python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/服务和流程报告.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="服务流程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/服务流程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生成报告的例子" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/生成报告的例子.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="注册服务员" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/注册服务员.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="服务监控页面" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/服务监控页面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="服务和流程报告" type="PythonConfigurationType" factoryName="Python">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\location\python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/服务和流程报告.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="登录报告" type="PythonConfigurationType" factoryName="Python">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\location\python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/登录报告.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="登录" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/登录.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="开通和关闭服务" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/TestCase/开通和关闭服务.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="下拉菜单定位测试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/下拉菜单定位测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="report" type="PythonConfigurationType" factoryName="Python">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/report.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 登录和TestCase.Login" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="E:\location\python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;report.Test_HTMLTestRunner&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 生成报告的例子.Baidu" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Baidu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in 服务和流程报告.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="1.4.0链接数据库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/base/TestCase/服务和流程报告.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.服务流程页面报告" />
+      <item itemvalue="Python.report" />
+      <item itemvalue="Python.服务监控页面报告" />
+      <item itemvalue="Python tests.Unittests for 生成报告的例子.Baidu" />
+      <item itemvalue="Python tests.Unittests for 登录和TestCase.Login" />
+      <item itemvalue="Python tests.Unittests in 服务和流程报告.py" />
+      <item itemvalue="Python.服务流程" />
+      <item itemvalue="Python.生成报告的例子" />
+      <item itemvalue="Python.注册服务员" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in 服务和流程报告.py" />
+        <item itemvalue="Python.服务流程" />
+        <item itemvalue="Python.注册服务员" />
+        <item itemvalue="Python.生成报告的例子" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f27a2a2-4a26-4fbf-8a62-a5554e7ac616" name="Default" comment="" />
+      <created>1558076442848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558076442848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Unittests_for_服务监控报告.Login.test_login" timestamp="1580986538672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#Unittests_for_服务监控报告.Login.test_login/0.0.1366.728@0.0.1366.728" timestamp="1580986538672" />
+    <state x="391" y="0" key="#Unittests_for_生成报告的例子.Baidu" timestamp="1580894927301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#Unittests_for_生成报告的例子.Baidu.test_baidu" timestamp="1580894863489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#Unittests_for_生成报告的例子.Baidu.test_baidu/0.0.1366.728@0.0.1366.728" timestamp="1580894863489" />
+    <state x="391" y="0" key="#Unittests_for_生成报告的例子.Baidu/0.0.1366.728@0.0.1366.728" timestamp="1580894927301" />
+    <state x="391" y="0" key="#Unittests_for_生成报告的例子.Baidu_(1)" timestamp="1580895665469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#Unittests_for_生成报告的例子.Baidu_(1)/0.0.1366.728@0.0.1366.728" timestamp="1580895665469" />
+    <state x="391" y="0" key="#Unittests_for_登录和TestCase.Login" timestamp="1580894540052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="0" key="#Unittests_for_登录和TestCase.Login.test_login" timestamp="1580893824497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="0" key="#Unittests_for_登录和TestCase.Login.test_login/0.0.1366.728@0.0.1366.728" timestamp="1580893824497" />
+    <state x="391" y="0" key="#Unittests_for_登录和TestCase.Login/0.0.1366.728@0.0.1366.728" timestamp="1580894540052" />
+    <state x="391" y="0" key="#Unittests_for_登录和TestCase.Login_(1)" timestamp="1580894555004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#Unittests_for_登录和TestCase.Login_(1)/0.0.1366.728@0.0.1366.728" timestamp="1580894555004" />
+    <state x="391" y="0" key="#Unittests_for_登录和TestCase.Login_(2)" timestamp="1580894691258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#Unittests_for_登录和TestCase.Login_(2)/0.0.1366.728@0.0.1366.728" timestamp="1580894691258" />
+    <state x="75" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581037833045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="75" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581037833045" />
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580986390089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580986390089" />
+    <state x="391" y="0" key="#使用openpyxl计算excel表中识别的字错误率" timestamp="1580722722879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#使用openpyxl计算excel表中识别的字错误率/0.0.1366.728@0.0.1366.728" timestamp="1580722722879" />
+    <state x="510" y="0" key="#基线" timestamp="1580729519449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="510" y="0" key="#基线/0.0.1366.728@0.0.1366.728" timestamp="1580729519449" />
+    <state x="590" y="0" key="#基线_(1)" timestamp="1580868475050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="590" y="0" key="#基线_(1)/0.0.1366.728@0.0.1366.728" timestamp="1580868475050" />
+    <state x="391" y="0" key="#生成报告的例子.py" timestamp="1580895512248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#生成报告的例子.py/0.0.1366.728@0.0.1366.728" timestamp="1580895512248" />
+    <state x="391" y="0" key="#解析excel表中json中某个字段值" timestamp="1580722708197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#解析excel表中json中某个字段值/0.0.1366.728@0.0.1366.728" timestamp="1580722708197" />
+    <state x="582" y="119" key="FileChooserDialogImpl" timestamp="1581037831203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="582" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581037831203" />
+    <state width="1345" height="219" key="GridCell.Tab.0.bottom" timestamp="1581052824209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581052824209" />
+    <state width="1345" height="219" key="GridCell.Tab.0.center" timestamp="1581052824209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581052824209" />
+    <state width="1345" height="219" key="GridCell.Tab.0.left" timestamp="1581052824209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581052824209" />
+    <state width="1345" height="219" key="GridCell.Tab.0.right" timestamp="1581052824209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581052824209" />
+    <state width="1345" height="219" key="GridCell.Tab.1.bottom" timestamp="1581052824210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581052824210" />
+    <state width="1345" height="219" key="GridCell.Tab.1.center" timestamp="1581052824209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581052824209" />
+    <state width="1345" height="219" key="GridCell.Tab.1.left" timestamp="1581052824209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581052824209" />
+    <state width="1345" height="219" key="GridCell.Tab.1.right" timestamp="1581052824210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581052824210" />
+    <state x="359" y="13" key="SettingsEditor" timestamp="1580789265374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580789265374" />
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1581036174770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581036174770" />
+    <state x="494" y="131" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580788765704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="131" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1580788765704" />
+    <state x="266" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580982806264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="266" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580982806264" />
+  </component>
+</project>
